@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 💫 About Me: I'm Rizone Hasan<br>Fullstack Developer<br>I’m a Full-stack web developer. I have a passion for learning and sharing my knowledge with others. Over the last three years, I have explored cyber security, computer networks, and Blockchain. Right now, I am working on Java. Skills: HTML / CSS/JS/Java/SQL/MongoDB/WordPress<br><br>🔭 I’m currently working on SpringBoot<br>🌱 I’m currently learning DSA in JAVA<br>🤔 I’m looking for help with small project based on java<br>⚡ Fun fact: I love to play online games
+## 💫 About Me: I'm Rizone Hasan<br>Fullstack Developer<br>I’m a Full-stack web developer. I have a passion for learning and sharing my knowledge with others. Over the last three years, I have explored computer network,machine learning,cloud computing. Right now, I am working on C#. Skills: HTML/ CSS/JS/React/Nodejs/Express/MongoDB/C#<br><br>🔭 I’m currently working on .NET Framework<br>🌱 I’m currently learning DSA in C# and solved problem in codeforces using C#<br>🤔 I’m looking for help with small project based on C#<br>⚡ Fun fact: I love to solve problem,for me it's like a playing games.
 
 
 ## 🌐 Socials:
